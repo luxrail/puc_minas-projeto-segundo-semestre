@@ -16,6 +16,15 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
+Melhorar a comunicação entre o cliente e o profissional de faxina.
+
+
+ - Simplificar o relacionamento entre o prestador de serviços e o cliente.
+ - Analisar os perfis dos profissionais que detalham suas atividades.
+ - Agilizar a elaboração dos orçamentos e possibilidade de negociação do valor final.
+
+*********
+
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
 
 Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
