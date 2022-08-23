@@ -14,6 +14,7 @@ As personas levantadas para o entendimento do problema são apresentadas na tabe
 
 |Foto                | Nome                               |Descrição                       | Motivações          | Frustações | Hobbies, Histórias |
 |--------------------|------------------------------------|--------------------------------| ------------------- | ---------- | ------------------ |
+|![natalia](https://user-images.githubusercontent.com/101216578/158676154-c2688be3-c1e9-455a-9628-7717c26bc6a5.jpg)              | Janete                            | • Têm 23 anos de idade.<br>• É casada com Natalino é tem dois filhos.<br>• Utiliza o Whatsapp e Facebook para comunicar com a família.<br> | Janete sonha com sua independência financeira e ela está trabalhando duro e divulga seu trabalho como diarista nas redes socias e compartilha com a família.               |   Por não ter concluído o ensino médio.<br>O episódio gerou muito estresse, desgaste físico e mental para ela, isso fez com que ela dormisse chateada que acabou afetando seu humor.       |  • Gosta de festas.<br>• Ama cuidar da família e dos afazeres da casa.<br>                |
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -35,6 +36,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Prestador de serviços       | Consultar disponibilidade de faxina               | Entrar em contato com o cliente |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
