@@ -3,11 +3,9 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+No dia a dia vem sendo cada vez mais difícil conciliar tempo para realizar tarefas domésticas.Tendo assim uma alta demanda de pessoas para realização desses serviços,
+não sendo fácil encontrar uma pessoa de confiança para realizar as tarefas sem "acompanhamento".Sendo assim, qual seria a melhor forma de conectar bons trabalhadores a pessoas que estão com necessidade de realizar a contratação de maneira segura e rápida?
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
